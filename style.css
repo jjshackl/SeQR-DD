@@ -4,8 +4,13 @@ body .container {
 
 .info {
   display: flex;
+  justify-content: center;
 }
 
+.info > div {
+  margin: 10px;
+  padding: 20px;
+}
 
 messageBox2 {
   display: none;
