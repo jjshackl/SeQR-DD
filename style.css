@@ -5,12 +5,12 @@ body .container {
 .info {
   display: flex;
   justify-content: center;
-  background-color: #0071CE;
 }
 
 .info > div {
   margin: 10px;
   padding: 20px;
+  background-color: #0071CE;
 }
 
 messageBox2 {
